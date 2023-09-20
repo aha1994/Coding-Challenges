@@ -5,3 +5,7 @@ Daily Python Coding Challeneges - [LeetCode Top 150 Interview Questions](https:/
 9/19/2023 - Merge Sorted Array (Easy)
 
 9/20/2023 - Remove Element (Easy)
+
+9/20/2023 - Remove Duplicates from Sorted Array I (Easy)
+
+9/20/2023 - Remove Duplicates from Sorted Array II (Medium)
