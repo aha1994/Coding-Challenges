@@ -13,3 +13,5 @@ Daily Python Coding Challeneges - [LeetCode Top 150 Interview Questions](https:/
 9/21/2023 - Majortiy Element (Easy)
 
 9/21/2023 - Rotate Array (Medium)
+
+9/25/2023 - Best Time to Buy and Sell Stock (Easy)
