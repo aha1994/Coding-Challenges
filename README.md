@@ -9,3 +9,7 @@ Daily Python Coding Challeneges - [LeetCode Top 150 Interview Questions](https:/
 9/20/2023 - Remove Duplicates from Sorted Array I (Easy)
 
 9/20/2023 - Remove Duplicates from Sorted Array II (Medium)
+
+9/21/2023 - Majortiy Element (Easy)
+
+9/21/2023 - Rotate Array (Medium)
