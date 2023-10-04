@@ -17,3 +17,5 @@ Daily Python Coding Challeneges - [LeetCode Top 150 Interview Questions](https:/
 9/25/2023 - Best Time to Buy and Sell Stock (Easy)
 
 10/3/2023 - Best Time to Buy and Sell Stock II (Medium)
+
+10/4/2023 - Jump Game I (Medium)
