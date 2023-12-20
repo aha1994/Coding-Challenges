@@ -21,3 +21,7 @@ Daily Python Coding Challeneges - [LeetCode Top 150 Interview Questions](https:/
 10/4/2023 - Jump Game I (Medium)
 
 10/5/2023 - Jump Game II (Medium)
+
+12/20/2023 - Valid Palindrome (Easy)
+
+12/20/2023 - Candy (Hard)
