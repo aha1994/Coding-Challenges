@@ -25,3 +25,5 @@ Daily Python Coding Challeneges - [LeetCode Top 150 Interview Questions](https:/
 12/20/2023 - Valid Palindrome (Easy)
 
 12/20/2023 - Candy (Hard)
+
+12/21/2023 - Is Substring (Easy)
