@@ -29,3 +29,7 @@ Array/String - Candy (Hard)
 Two Pointers - Is Substring (Easy)
 
 Array/String - Trapping Rain Water (Hard)
+
+Multidimensional DP - Triangle (Medium)
+
+Math - Pow(x, n) (Medium)
