@@ -33,3 +33,5 @@ Array/String - Trapping Rain Water (Hard)
 Multidimensional DP - Triangle (Medium)
 
 Math - Pow(x, n) (Medium)
+
+Matrix - Rotate Image (Medium)
