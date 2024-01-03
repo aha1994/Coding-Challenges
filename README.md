@@ -35,3 +35,7 @@ Multidimensional DP - Triangle (Medium)
 Math - Pow(x, n) (Medium)
 
 Matrix - Rotate Image (Medium)
+
+1D DP - Climbing Stairs (Easy)
+
+Matrix - Set Matrix Zeroes (Medium)
