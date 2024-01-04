@@ -39,3 +39,11 @@ Matrix - Rotate Image (Medium)
 1D DP - Climbing Stairs (Easy)
 
 Matrix - Set Matrix Zeroes (Medium)
+
+Math - Sqrt(x) (Easy)
+
+Binary Search - Search Insert Position (Easy)
+
+
+
+
